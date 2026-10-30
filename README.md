@@ -315,7 +315,7 @@ You can keep the virtual environment active while working on this project.
 - Build a FastAPI endpoint and connect an event-stream simulator for a more realistic streaming architecture.
 - Validate the system with a bank-approved, privacy-safe dataset before making any operational claims.
 
-## 15. Resume description (edit this after you run and understand it)
+## 15. Resume description
 
 **FraudShield AI — Financial Transaction Fraud Screening:** Built an end-to-end Python machine-learning prototype using Pandas and Scikit-learn to screen transaction records, address class imbalance with class-weighted Random Forest, tune a validation decision threshold, evaluate with Precision/Recall/F1/PR-AUC, and deliver single-record and batch predictions through a Streamlit dashboard.
 "# fraudshield-ai" 
